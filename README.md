@@ -1,2 +1,2 @@
 # Curso-Excel
- Curso de Excel e exercícios
+ Curso de Excel avançado com VBA e exercícios
