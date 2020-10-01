@@ -1,0 +1,5 @@
+ID-Produto-Preço de Custo-Preço de Venda
+ID1-Excel-100-500
+ID2-Word-150-400
+ID3-Power Point-230-490
+ID4-Power BI-300-950

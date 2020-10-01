@@ -1,0 +1,7 @@
+ID-Vendedor-Sexo
+ID1-Pedro-Masculino
+ID2-Mario-Feminino
+ID3-Manuela-Feminino
+ID4-Teresa-Feminino
+ID5-Maicon-Masculino
+ID6-João-Masculino

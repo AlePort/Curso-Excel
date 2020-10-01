@@ -1,0 +1,1 @@
+=SE(L2=0;"";SE(L2=1;SE(C2="Macho";"Filho de "&A2;"Filha de "&A2);SE(L2=2;SE(C2="Macho";"Neto de "&A2;"Neta de "&A2);SE(C2="Macho";"Bisneto de "&A2;"Bisneta de "&A2))))

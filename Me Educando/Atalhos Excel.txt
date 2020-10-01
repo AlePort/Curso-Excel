@@ -1,0 +1,9 @@
+Primeira célula: ctrl + home
+Primeira linha: ctrl + up
+Última linha: ctrl + down
+Primeira coluna: ctrl + left
+Última coluna: ctrl + right
+Referência relativa: E12
+Referência absoluta: $E$12 (F4)
+Adicionar colunas à esquerda e linhas à cima: (seleciona a coluna toda) ctrl + "+" + "+" ou ctrl + shift + "+"
+PowerPivot: Relaciona duas planílhas diferentes em um mesmo banco de dados.
